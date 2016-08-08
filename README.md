@@ -1,2 +1,5 @@
 # hello-world
-Start.
+
+Hello world!
+
+I'm a completely newbie on this.
